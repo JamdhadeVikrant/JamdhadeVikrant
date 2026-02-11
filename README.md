@@ -45,7 +45,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JamdhadeVikrant&theme=tokyonight"/>
 </p>
 
-
 ---
 
 <h2 align="center">📈 Activity Graph</h2>
@@ -59,7 +58,7 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/JamdhadeVikrant/JamdhadeVikrant/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/JamdhadeVikrant/JamdhadeVikrant/output/snake.svg"/>
 </p>
 
 ---
@@ -67,10 +66,15 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+</a>
 </p>
 
 ---
 
-<h3 align="center">⭐ "Code. Learn. Build. Repeat."</h3>
+<h3 align="center">⭐ Code. Learn. Build. Repeat.</h3>
