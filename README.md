@@ -41,8 +41,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JamdhadeVikrant&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JamdhadeVikrant&theme=tokyonight"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JamdhadeVikrant&theme=react-dark"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg"/>
+<img src="https://raw.githubusercontent.com/JamdhadeVikrant/JamdhadeVikrant/output/snake.svg"/>
 </p>
 
 ---
