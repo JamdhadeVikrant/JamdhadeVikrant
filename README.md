@@ -79,16 +79,27 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
+
+<a href="https://github.com/JamdhadeVikrant">
+<img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="40"/>
+</a>
+
 <a href="https://www.linkedin.com/in/vikrant-jamdhade-8a97b8302/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
 </a>
 
 <a href="mailto:jamdhadevikrant904@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+<img src="https://img.icons8.com/color/48/gmail.png" width="40"/>
 </a>
+
+<a href="https://leetcode.com/u/vikrant31/">
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="40"/>
+</a>
+
 </p>
 
 
 ---
+
 
 <h3 align="center">⭐ "Code. Learn. Build. Repeat."</h3>
