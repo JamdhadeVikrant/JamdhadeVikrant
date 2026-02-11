@@ -67,8 +67,8 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vikrant-jamdhade-8a97b8302/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:jamdhadevikrant904@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
