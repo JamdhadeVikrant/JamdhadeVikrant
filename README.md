@@ -98,6 +98,39 @@
 
 
 ---
+---
+
+<h3 align="center">🌟 Thought I Believe In</h3>
+
+<p align="center">
+<i>
+"If you <b>FAIL</b>, never give up because <b>F.A.I.L.</b> means <b>First Attempt In Learning</b>."
+</i>
+</p>
+
+<p align="center">
+<i>
+"<b>END</b> is not the end; in fact <b>E.N.D.</b> means <b>Effort Never Dies</b>."
+</i>
+</p>
+
+<p align="center">
+<i>
+"If you get <b>NO</b> as an answer, remember <b>N.O.</b> means <b>Next Opportunity</b>."
+</i>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F7C948&center=true&vCenter=true&lines=Keep+Growing;Never+Stop+Learning;Success+Needs+Patience" />
+</p>
+
+<p align="center"><b>— Dr. A. P. J. Abdul Kalam</b></p>
+
+---
+
+
+
+---
 
 
 <h3 align="center">⭐ "Code. Learn. Build. Repeat."</h3>
