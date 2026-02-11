@@ -80,9 +80,7 @@
 
 <p align="center">
 
-<a href="https://github.com/JamdhadeVikrant">
-<img src="https://img.icons8.com/ios-glyphs/50/ffffff/github.png" width="40"/>
-</a>
+
 
 <a href="https://www.linkedin.com/in/vikrant-jamdhade-8a97b8302/">
 <img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
