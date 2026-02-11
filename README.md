@@ -1,10 +1,11 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=250&section=header&text=Hi%20👋%20I'm%20Vikrant%20Jamdhade&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f2937,100:111827&height=140&section=header&text=Vikrant%20Jamdhade&fontSize=34&fontColor=ffffff&fontAlignY=50" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Learner;DSA+Enthusiast;Open+Source+Learner" />
+  <b>Computer Engineering Student • Full Stack Learner • DSA Enthusiast</b>
 </p>
+
 
 
 ---
